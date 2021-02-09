@@ -1,2 +1,2 @@
 # Video
- En esta carpeta se encunetra el video de la presentación del proyecto realizada
+ En esta carpeta se encuentra el video de la presentación del proyecto realizada
