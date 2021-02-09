@@ -1,7 +1,7 @@
-postwork 7
+Projecto Final
 ================
 Equipo 13
-29/1/2021
+
 
 ``` r
 #librerias Necesarias para correr el script
