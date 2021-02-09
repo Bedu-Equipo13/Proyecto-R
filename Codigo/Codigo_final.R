@@ -738,7 +738,7 @@ title(main = "Correlograma de los residuales del ajuste")
 # Podria mejorarse el modelo realizando otros ajustes en los ordenes, pero se continuara
 # con este modelo para generar valores predecidos de accidentes para dos años
 
-ts(cumsum(c(time.ts[1],pr)), start =2010,freq = 12)
+#ts(cumsum(c(time.ts[1],pr)), start =2010,freq = 12)
 #prediccion 
 pr <- predict(best.fit.elec, 24)$pred 
 
