@@ -1,4 +1,4 @@
-## Proyecto final del Módulo: Estadística y Programación con R
+# Proyecto final del Módulo: Estadística y Programación con R
 
 
 * Jesus Antonio Hernandez Aguilera: antoniohdz_21@hotmail.com
@@ -6,7 +6,7 @@
 * Adalberto Benitez Zapata: adalb518@gmail.com
 * Sergio Maldonado Rodriguez: sermalrod@outlook.com
 
-# El repositorio esta dividido de la siguiente manera
+## El repositorio esta dividido de la siguiente manera
 * Codigo: en donde se encuentra el analisis realizado en formato R el cual es repoducible unicamente se tiene que hacer Source al Script
 * Reporte_git: en esta carpeta se encuentra el codigo realizado en formato .rmd y en md el cual se puede visualizar por Github 
 * Reporte: En esta carpeta se encuentra el reporte en formato PDF ideal Para visualizar en cualquier Computadora
