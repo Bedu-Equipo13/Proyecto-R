@@ -1,5 +1,5 @@
 # Proyecto final del Módulo: Estadística y Programación con R
-
+Version en linea: https://rpubs.com/sergiomr/723445
 
 * Jesus Antonio Hernandez Aguilera: antoniohdz_21@hotmail.com
 * Angel Uriel Meléndez Rivera: amelendezr1100@alumno.ipn.mx
