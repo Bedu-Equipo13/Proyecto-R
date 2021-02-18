@@ -1,10 +1,15 @@
 # Proyecto final del Módulo: Estadística y Programación con R
+# Accidentes vehiculares en la CDMX
+
 Version en linea: https://rpubs.com/sergiomr/723445
 
 * Jesus Antonio Hernandez Aguilera: antoniohdz_21@hotmail.com
 * Angel Uriel Meléndez Rivera: amelendezr1100@alumno.ipn.mx
 * Adalberto Benitez Zapata: adalb518@gmail.com
 * Sergio Maldonado Rodriguez: sermalrod@outlook.com
+
+## RESUMEN
+En base a infomacion obtenida acerca de los accidentes vehiculares en la CDMX, del año 2010 al 2019, se plantea y prueba diversas hipotesis, con la finalidad de determinar los factores primordiales que propician un mayor numero de accidentes y con base a esto generar una prediccion del numero de accidentes en un futuro
 
 ## El repositorio esta dividido de la siguiente manera
 * Codigo: en donde se encuentra el analisis realizado en formato R el cual es repoducible unicamente se tiene que hacer Source al Script
